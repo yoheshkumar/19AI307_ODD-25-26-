@@ -1,5 +1,8 @@
 # Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
 
+### Name:  YOHESH KUMAR R.M
+### Reg No: 212222240118
+
 ## QUESTION:
 Lovely is learning java basics, can you teach her the different types of datatypes in java? Write a program that uses all datatypes and print them all.
 
@@ -63,5 +66,6 @@ class prog{
 
 ## RESULT:
 Thus, the Java program to demonstrate all data types by declaring, initializing, and printing them was successfully compiled and executed.
+
 
 
